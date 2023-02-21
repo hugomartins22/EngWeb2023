@@ -16,6 +16,6 @@
         <p>A segunda parte do TPC consistia em desenvolver uma página web cujo tópico era uma palavra começada pela letra I. O tópico escolhido foi a palavra: <b>Itália</b></p>
     </resumo>
     <resultados>
-        <resultado path="/Itália">Página HTML acerca do tópico escolhido: Itália</resultado>
+        <resultado path="/TPC1/Itália">Página HTML acerca do tópico escolhido: Itália</resultado>
     </resultados>
 </manifesto>
